@@ -3,7 +3,7 @@ import logo from "../assets/logo.png"
 export default function Footer(){
     return(
         <div>
-        <div className="w-[1230px] h-[330px] bg-[#043873] text-white" >
+        <div className="w-[1350px] h-[330px] bg-[#043873] text-white" >
 
         <div className="flex">
             {/* 1 */}

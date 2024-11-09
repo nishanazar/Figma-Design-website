@@ -9,7 +9,7 @@ import Botton from "../components/Botton"
 export default function Work (){
     return (
         
-         <div className="w-[1250px] h-[430px] top-[92px] left-[1px]  px-[220px]  flex">
+         <div className="w-[1350px] h-[430px] top-[92px] left-[1px]  px-[220px]  flex">
         
       <div className="w-[824px] h-[320px] bg-[#C4DEFD] gap-4px ml-5"></div>
       

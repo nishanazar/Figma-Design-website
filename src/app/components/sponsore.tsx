@@ -8,7 +8,7 @@ import google from "../assets/Group 246.png"
 export default function Sponsore (){
     return (
     <>
-    <div className="w-[1230px] h-[250px] px-10 ">
+    <div className="w-[1350px] h-[250px] px-10 ">
     <h1 className="text-center font-bold text-[35px] mb-[50px]">Our sponsors</h1>
     <div className="text-[30px] flex justify-evenly top-[30px]">
     <Image src={apple} alt="Apple-icon" height={5} width={35}/>

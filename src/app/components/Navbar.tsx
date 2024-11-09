@@ -6,7 +6,7 @@ export default function Navbar(){
   return (
     
       <>
-   <div className='w-[1250px] h-[92px] py-4 px-[150px] bg-[#043873] flex justify-between items-center'>
+   <div className='w-[1350px] h-[92px] py-4 px-[150px] bg-[#043873] flex justify-between items-center'>
    <div className='w-[191px] h-[34px]'>
    <Image src={logo} alt='' />
    </div>

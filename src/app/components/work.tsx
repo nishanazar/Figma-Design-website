@@ -9,7 +9,7 @@ import Botton from "../components/Botton"
 export default function Work (){
     return (
          
-         <div className="w-[1250px] h-[430px] top-[92px] left-[1px]  px-[220px] bg flex">
+         <div className="w-[1350px] h-[430px] top-[92px] left-[1px]  px-[220px] bg flex">
           <Image className="w-[424px] h-[320px]  gap-4px" src={image} alt="pic"/>
           <div className="w-[556px] h-[361px] ml-[60px]" >
           <h2 className=" text-[35px] font-bold leading-[40.45px] tracking-[-2%] mt-[70px]">Work together</h2>

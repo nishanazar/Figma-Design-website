@@ -11,7 +11,7 @@ interface datatype {
 const Hero = (props: datatype) =>  {
 return (
   <>
-      <div className={`w-[1250px] h-[430px] top-[92px] left-[1px] py-[50px] px-[220px] mb-14 bg-${props.bgColor} flex`}>
+      <div className={`w-[1350px] h-[430px] top-[92px] left-[1px] py-[50px] px-[220px] mb-14 bg-${props.bgColor} flex`}>
       <div className={`w-[656px] h-[361px]  text-${props.textColor}`}>
       <h2 className=" text-[37px] font-bold leading-[45.45px] tracking-[-2%] mt-[70px]">{props.h2}</h2>
       <p className="text-[10px] mt-[15px] mb-[30px]">{props.p}</p>
